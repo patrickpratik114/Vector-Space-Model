@@ -1,0 +1,60 @@
+Query: computer science
+  Document: document1.txt, Similarity: 0.3247
+  Document: document6.txt, Similarity: 0.2965
+  Document: document9.txt, Similarity: 0.0790
+  Document: document7.txt, Similarity: 0.0773
+  Document: document3.txt, Similarity: 0.0762
+  Document: document2.txt, Similarity: 0.0000
+  Document: document5.txt, Similarity: 0.0000
+  Document: document4.txt, Similarity: 0.0000
+  Document: document10.txt, Similarity: 0.0000
+  Document: document8.txt, Similarity: 0.0000
+
+Query: web development
+  Document: document10.txt, Similarity: 0.5905
+  Document: document3.txt, Similarity: 0.3751
+  Document: document1.txt, Similarity: 0.0000
+  Document: document2.txt, Similarity: 0.0000
+  Document: document5.txt, Similarity: 0.0000
+  Document: document4.txt, Similarity: 0.0000
+  Document: document8.txt, Similarity: 0.0000
+  Document: document9.txt, Similarity: 0.0000
+  Document: document7.txt, Similarity: 0.0000
+  Document: document6.txt, Similarity: 0.0000
+
+Query: machine learning
+  Document: document9.txt, Similarity: 0.5644
+  Document: document2.txt, Similarity: 0.3175
+  Document: document1.txt, Similarity: 0.1297
+  Document: document3.txt, Similarity: 0.0000
+  Document: document5.txt, Similarity: 0.0000
+  Document: document4.txt, Similarity: 0.0000
+  Document: document10.txt, Similarity: 0.0000
+  Document: document8.txt, Similarity: 0.0000
+  Document: document7.txt, Similarity: 0.0000
+  Document: document6.txt, Similarity: 0.0000
+
+Query: django
+  Document: document10.txt, Similarity: 0.3721
+  Document: document1.txt, Similarity: 0.0000
+  Document: document2.txt, Similarity: 0.0000
+  Document: document3.txt, Similarity: 0.0000
+  Document: document5.txt, Similarity: 0.0000
+  Document: document4.txt, Similarity: 0.0000
+  Document: document8.txt, Similarity: 0.0000
+  Document: document9.txt, Similarity: 0.0000
+  Document: document7.txt, Similarity: 0.0000
+  Document: document6.txt, Similarity: 0.0000
+
+Query: data science
+  Document: document7.txt, Similarity: 0.4203
+  Document: document9.txt, Similarity: 0.2624
+  Document: document3.txt, Similarity: 0.2531
+  Document: document1.txt, Similarity: 0.0977
+  Document: document2.txt, Similarity: 0.0000
+  Document: document5.txt, Similarity: 0.0000
+  Document: document4.txt, Similarity: 0.0000
+  Document: document10.txt, Similarity: 0.0000
+  Document: document8.txt, Similarity: 0.0000
+  Document: document6.txt, Similarity: 0.0000
+

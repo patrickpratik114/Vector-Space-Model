@@ -1,0 +1,1 @@
+This document covers how Django web framework is used for web development projects. 
